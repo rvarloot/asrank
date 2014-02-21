@@ -1,7 +1,7 @@
 asrank
 ======
 
-Implementation of CAIDA AS ranking algorithm.
+Implementation of CAIDA AS ranking algorithm released under the CeCILL license.
 
 =====
 Usage
